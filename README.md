@@ -2,9 +2,7 @@
 
 **`Back-end Developer`**
 
-Tenho interesse em resolver problemas utilizando tecnologia. Meu foco é o desenvolvimento backend, onde trabalho com tecnologias como Node.js e PHP, além de explorar métodos modernos como Express.js, Fastify e Laravel para soluções poderosas e escaláveis.
-
-Gosto de trabalhar em projetos desafiadores que me permitam aprender e utilizar novas tecnologias. [Procuro maneiras de melhorar minhas habilidades] e trabalhar com equipes para desenvolver sistemas que façam a diferença.
+I am from the countryside of São Paulo and have always been interested in technology. During high school, I completed a technical course in Systems Analysis and Development, which strengthened my passion for the field. Currently, I am pursuing a degree in Systems Analysis and Development at FATEC, where I continue to enhance my knowledge in software development, API development, and databases. My goal is to keep evolving and contributing to innovative projects in the technology sector.
 
 
 <a href="https://www.linkedin.com/in/thiago-gato-073833273/" target="_blank">
