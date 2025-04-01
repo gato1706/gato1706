@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🏄 Thiago Gato
 
-<!--
-**gato1706/gato1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Back-end Developer`**
 
-Here are some ideas to get you started:
+Tenho interesse em resolver problemas utilizando tecnologia. Meu foco é o desenvolvimento backend, onde trabalho com tecnologias como Node.js e PHP, além de explorar métodos modernos como Express.js, Fastify e Laravel para soluções poderosas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de trabalhar em projetos desafiadores que me permitam aprender e utilizar novas tecnologias. [Procuro maneiras de melhorar minhas habilidades] e trabalhar com equipes para desenvolver sistemas que façam a diferença.
+
+
+<a href="https://www.linkedin.com/in/thiago-gato-073833273/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Thiago Gato" width="25">
+</a>
+
+
+### 🧰 Languages and Tools
+
+
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+
+
+
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
+<br
+ />
+<br>
+
+
+
+### 📊 Statistics
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gato1706&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gato1706&theme=tokyonight&layout=compact&custom_title=Technologies)
+
